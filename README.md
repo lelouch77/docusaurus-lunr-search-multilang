@@ -1,0 +1,2 @@
+# docuasaurus-lunr-search-multilang
+ 
