@@ -2,11 +2,11 @@ const path = require('path');
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: '',
+  baseUrl: '/docusaurus-lunr-search-multilang/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'lelouch77', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-lunr-search-multilang', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
