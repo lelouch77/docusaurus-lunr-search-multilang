@@ -2,7 +2,7 @@ const path = require('path');
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: '',
+  url: 'http://lelouch77.github.io//docusaurus-lunr-search-multilang/',
   baseUrl: '/docusaurus-lunr-search-multilang/',
   favicon: 'img/favicon.ico',
   organizationName: 'lelouch77', // Usually your GitHub org/user name.

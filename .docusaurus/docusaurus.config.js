@@ -5,8 +5,7 @@ export default {
       {
         "languages": [
           "en",
-          "de",
-          "zh"
+          "de"
         ]
       }
     ]
@@ -91,11 +90,11 @@ export default {
   },
   "title": "My Site",
   "tagline": "The tagline of my site",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "http://lelouch77.github.io//docusaurus-lunr-search-multilang/",
+  "baseUrl": "/docusaurus-lunr-search-multilang/",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "lelouch77",
+  "projectName": "docusaurus-lunr-search-multilang",
   "presets": [
     [
       "@docusaurus/preset-classic",

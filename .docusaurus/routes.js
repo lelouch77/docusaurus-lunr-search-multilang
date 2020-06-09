@@ -5,103 +5,103 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   
 {
-  path: '/',
-  component: ComponentCreator('/'),
+  path: '/docusaurus-lunr-search-multilang/',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/'),
   exact: true,
   
 },
 {
-  path: '/blog',
-  component: ComponentCreator('/blog'),
+  path: '/docusaurus-lunr-search-multilang/blog',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog'),
   exact: true,
   
 },
 {
-  path: '/blog/hello-world',
-  component: ComponentCreator('/blog/hello-world'),
+  path: '/docusaurus-lunr-search-multilang/blog/hello-world',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog/hello-world'),
   exact: true,
   
 },
 {
-  path: '/blog/hola',
-  component: ComponentCreator('/blog/hola'),
+  path: '/docusaurus-lunr-search-multilang/blog/hola',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog/hola'),
   exact: true,
   
 },
 {
-  path: '/blog/tags',
-  component: ComponentCreator('/blog/tags'),
+  path: '/docusaurus-lunr-search-multilang/blog/tags',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog/tags'),
   exact: true,
   
 },
 {
-  path: '/blog/tags/docusaurus',
-  component: ComponentCreator('/blog/tags/docusaurus'),
+  path: '/docusaurus-lunr-search-multilang/blog/tags/docusaurus',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog/tags/docusaurus'),
   exact: true,
   
 },
 {
-  path: '/blog/tags/facebook',
-  component: ComponentCreator('/blog/tags/facebook'),
+  path: '/docusaurus-lunr-search-multilang/blog/tags/facebook',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog/tags/facebook'),
   exact: true,
   
 },
 {
-  path: '/blog/tags/hello',
-  component: ComponentCreator('/blog/tags/hello'),
+  path: '/docusaurus-lunr-search-multilang/blog/tags/hello',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog/tags/hello'),
   exact: true,
   
 },
 {
-  path: '/blog/tags/hola',
-  component: ComponentCreator('/blog/tags/hola'),
+  path: '/docusaurus-lunr-search-multilang/blog/tags/hola',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog/tags/hola'),
   exact: true,
   
 },
 {
-  path: '/blog/welcome',
-  component: ComponentCreator('/blog/welcome'),
+  path: '/docusaurus-lunr-search-multilang/blog/welcome',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/blog/welcome'),
   exact: true,
   
 },
 {
-  path: '/docs',
-  component: ComponentCreator('/docs'),
+  path: '/docusaurus-lunr-search-multilang/docs',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/docs'),
   exact: true,
   
 },
 {
-  path: '/docs/:route',
-  component: ComponentCreator('/docs/:route'),
+  path: '/docusaurus-lunr-search-multilang/docs/:route',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/docs/:route'),
   
   routes: [
 {
-  path: '/docs/doc1',
-  component: ComponentCreator('/docs/doc1'),
+  path: '/docusaurus-lunr-search-multilang/docs/doc1',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/docs/doc1'),
   exact: true,
   
 },
 {
-  path: '/docs/doc2',
-  component: ComponentCreator('/docs/doc2'),
+  path: '/docusaurus-lunr-search-multilang/docs/doc2',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/docs/doc2'),
   exact: true,
   
 },
 {
-  path: '/docs/doc3',
-  component: ComponentCreator('/docs/doc3'),
+  path: '/docusaurus-lunr-search-multilang/docs/doc3',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/docs/doc3'),
   exact: true,
   
 },
 {
-  path: '/docs/doc4',
-  component: ComponentCreator('/docs/doc4'),
+  path: '/docusaurus-lunr-search-multilang/docs/doc4',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/docs/doc4'),
   exact: true,
   
 },
 {
-  path: '/docs/mdx',
-  component: ComponentCreator('/docs/mdx'),
+  path: '/docusaurus-lunr-search-multilang/docs/mdx',
+  component: ComponentCreator('/docusaurus-lunr-search-multilang/docs/mdx'),
   exact: true,
   
 }],

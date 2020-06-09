@@ -1,8 +1,8 @@
 {
-  "/": {
+  "/docusaurus-lunr-search-multilang/": {
     "component": "ece76bd1"
   },
-  "/blog": {
+  "/docusaurus-lunr-search-multilang/blog": {
     "component": "a6aa9e1f",
     "items": [
       {
@@ -15,21 +15,21 @@
         "content": "2738c48a"
       }
     ],
-    "metadata": "bbb4ffb5"
+    "metadata": "14868d69"
   },
-  "/blog/hello-world": {
+  "/docusaurus-lunr-search-multilang/blog/hello-world": {
     "component": "ccc49370",
     "content": "843d79fe"
   },
-  "/blog/hola": {
+  "/docusaurus-lunr-search-multilang/blog/hola": {
     "component": "ccc49370",
     "content": "aeda19be"
   },
-  "/blog/tags": {
+  "/docusaurus-lunr-search-multilang/blog/tags": {
     "component": "01a85c17",
-    "tags": "8be5b89e"
+    "tags": "1845338b"
   },
-  "/blog/tags/docusaurus": {
+  "/docusaurus-lunr-search-multilang/blog/tags/docusaurus": {
     "component": "6875c492",
     "items": [
       {
@@ -42,18 +42,18 @@
         "content": "2738c48a"
       }
     ],
-    "metadata": "6ca375e2"
+    "metadata": "be7d343e"
   },
-  "/blog/tags/facebook": {
+  "/docusaurus-lunr-search-multilang/blog/tags/facebook": {
     "component": "6875c492",
     "items": [
       {
         "content": "99caf125"
       }
     ],
-    "metadata": "eec15bdb"
+    "metadata": "3bafebf4"
   },
-  "/blog/tags/hello": {
+  "/docusaurus-lunr-search-multilang/blog/tags/hello": {
     "component": "6875c492",
     "items": [
       {
@@ -63,47 +63,47 @@
         "content": "c0a4ca73"
       }
     ],
-    "metadata": "3a6eb64e"
+    "metadata": "2fb7198b"
   },
-  "/blog/tags/hola": {
+  "/docusaurus-lunr-search-multilang/blog/tags/hola": {
     "component": "6875c492",
     "items": [
       {
         "content": "2738c48a"
       }
     ],
-    "metadata": "31d49d87"
+    "metadata": "f038fc76"
   },
-  "/blog/welcome": {
+  "/docusaurus-lunr-search-multilang/blog/welcome": {
     "component": "ccc49370",
     "content": "a9ae89f1"
   },
-  "/docs": {
+  "/docusaurus-lunr-search-multilang/docs": {
     "component": "1be78505",
     "docsMetadata": "d22cc218",
     "content": "7366bc9d"
   },
-  "/docs/:route": {
+  "/docusaurus-lunr-search-multilang/docs/:route": {
     "component": "1be78505",
-    "docsMetadata": "20ac7829"
+    "docsMetadata": "cd1d89f0"
   },
-  "/docs/doc1": {
+  "/docusaurus-lunr-search-multilang/docs/doc1": {
     "component": "17896441",
     "content": "7366bc9d"
   },
-  "/docs/doc2": {
+  "/docusaurus-lunr-search-multilang/docs/doc2": {
     "component": "17896441",
     "content": "991b72a1"
   },
-  "/docs/doc3": {
+  "/docusaurus-lunr-search-multilang/docs/doc3": {
     "component": "17896441",
     "content": "225b4c69"
   },
-  "/docs/doc4": {
+  "/docusaurus-lunr-search-multilang/docs/doc4": {
     "component": "17896441",
     "content": "f97bf87c"
   },
-  "/docs/mdx": {
+  "/docusaurus-lunr-search-multilang/docs/mdx": {
     "component": "17896441",
     "content": "45acc928"
   }

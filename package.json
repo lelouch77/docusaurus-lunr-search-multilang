@@ -14,7 +14,7 @@
     "autocomplete.js": "^0.37.1",
     "cheerio": "^1.0.0-rc.3",
     "classnames": "^2.2.6",
-    "docusaurus-lunr-search": "^2.0.0-rc3",
+    "docusaurus-lunr-search": "2.0.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },

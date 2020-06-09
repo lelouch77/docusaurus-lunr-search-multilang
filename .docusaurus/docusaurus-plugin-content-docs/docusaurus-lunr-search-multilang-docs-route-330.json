@@ -46,7 +46,5 @@
     "/docusaurus-lunr-search-multilang/docs/doc3": "someSidebar",
     "/docusaurus-lunr-search-multilang/docs/doc4": "someSidebar",
     "/docusaurus-lunr-search-multilang/docs/mdx": "someSidebar"
-  },
-  "isHomePage": true,
-  "homePagePath": "/docusaurus-lunr-search-multilang/docs/doc1"
+  }
 }
