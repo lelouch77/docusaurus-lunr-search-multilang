@@ -16,7 +16,8 @@
     "classnames": "^2.2.6",
     "docusaurus-lunr-search": "2.0.0-zh1",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "nodejieba": "^2.3.0"
   },
   "browserslist": {
     "production": [
