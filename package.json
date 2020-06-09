@@ -1,7 +1,7 @@
 {
   "name": "my-website",
   "version": "0.0.0",
-  "private": false,
+  "private": true,
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -9,12 +9,12 @@
     "deploy": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0",
-    "@docusaurus/preset-classic": "2.0.0",
+    "@docusaurus/core": "2.0.0-alpha.40",
+    "@docusaurus/preset-classic": "2.0.0-alpha.40",
     "autocomplete.js": "^0.37.1",
     "cheerio": "^1.0.0-rc.3",
     "classnames": "^2.2.6",
-    "docusaurus-lunr-search": "2.0.0",
+    "docusaurus-lunr-search": "^2.0.0-rc3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
