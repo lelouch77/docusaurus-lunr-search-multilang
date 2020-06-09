@@ -80,7 +80,7 @@ module.exports = {
     },
   },
   plugins: [[path.resolve(__dirname, './node_modules/docusaurus-lunr-search/'),{
-    languages:['en', 'de']
+    languages:['en', 'de', 'zh']
   }]],
   presets: [
     [
