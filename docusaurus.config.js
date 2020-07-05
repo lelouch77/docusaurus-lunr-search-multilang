@@ -3,7 +3,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'http://lelouch77.github.io//docusaurus-lunr-search-multilang/',
-  baseUrl: '/docusaurus-lunr-search-multilang/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'lelouch77', // Usually your GitHub org/user name.
   projectName: 'docusaurus-lunr-search-multilang', // Usually your repo name.
@@ -80,7 +80,7 @@ module.exports = {
     },
   },
   plugins: [[path.resolve(__dirname, './node_modules/docusaurus-lunr-search/'),{
-    languages:['en', 'de', 'zh']
+    languages:['en', 'de']
   }]],
   presets: [
     [
